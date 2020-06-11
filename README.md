@@ -81,5 +81,5 @@ The results save path is:  "./results/sacred".
 
 The experimental results are presented in Table 1:
 
-<img src='./fig/Table.png' style='width:700px'>
+<img src='http://wl.lelego.top/Table1.png' style='width:700px'>
 
